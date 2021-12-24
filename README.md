@@ -11,6 +11,7 @@ Proyecto en la que se cre una base de datos: trabajado desde Udemy - El proyecto
 - HTML5
 - CSS3
 - JS(Javascript)
+- IndexedDB
 
 - **Udemy**:
     - Proyecto de práctica para mejorar skills.
