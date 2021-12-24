@@ -1,4 +1,4 @@
-# # IndexedDB
+# # CRMIndexedDB
 
 ### [Base de datos de clientes](https://megagringa.github.io/IndexedDB/index.html)
 
