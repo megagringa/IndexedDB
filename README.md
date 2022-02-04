@@ -2,8 +2,8 @@
 
 ### [Base de datos de clientes](https://megagringa.github.io/IndexedDB/index.html)
 
-Proyecto en la que se cre una base de datos: trabajado desde Udemy - El proyecto viene con una estructura armada en html y css - 
-         Solo se implementa js. 
+Proyecto en la que se cre una base de datos - El proyecto viene con una estructura armada en html y css - 
+         Solo se implementa js para desarrollar y aprender. 
 
 
 ## Lenguajes y tecnologías.
@@ -12,9 +12,3 @@ Proyecto en la que se cre una base de datos: trabajado desde Udemy - El proyecto
 - CSS3
 - JS(Javascript)
 - IndexedDB
-
-- **Udemy**:
-    - Proyecto de práctica para mejorar skills.
-    
-- **Proyecto**:
-    - Adm de clientes.
