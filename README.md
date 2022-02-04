@@ -17,4 +17,4 @@ Proyecto en la que se cre una base de datos: trabajado desde Udemy - El proyecto
     - Proyecto de práctica para mejorar skills.
     
 - **Proyecto**:
-    - Adm de citas para pacientes.
+    - Adm de clientes.
